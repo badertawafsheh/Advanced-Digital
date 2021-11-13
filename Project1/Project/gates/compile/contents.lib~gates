@@ -1,0 +1,17 @@
+1
+~E 1 "../src/gates.vhd" 81 and2
+~A 1 "../src/gates.vhd" 85 simple
+~E 1 "../src/gates.vhd" 53 nand2
+~A 1 "../src/gates.vhd" 57 simple
+~E 1 "../src/gates.vhd" 67 nor2
+~A 1 "../src/gates.vhd" 71 simple
+~E 1 "../src/gates.vhd" 38 not1
+~A 1 "../src/gates.vhd" 42 simple
+~E 1 "../src/gates.vhd" 95 or2
+~A 1 "../src/gates.vhd" 99 simple
+~E 1 "../src/gates.vhd" 107 or3
+~A 1 "../src/gates.vhd" 111 simple
+~E 1 "../src/gates.vhd" 134 xnor2
+~A 1 "../src/gates.vhd" 138 simple
+~E 1 "../src/gates.vhd" 120 xor2
+~A 1 "../src/gates.vhd" 124 simple

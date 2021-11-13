@@ -1,0 +1,33 @@
+# Library Manager: Library "gates" already exists.
+acom -reorder -O3 -e 100 -work gates -2002  $dsn/src/gates.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/Project1/Project/gates/src/gates.vhd
+# Compile Package "MY_GATES"
+# Compile Entity "not1"
+# Compile Architecture "simple" of Entity "not1"
+# Compile Entity "nand2"
+# Compile Architecture "simple" of Entity "nand2"
+# Compile Entity "nor2"
+# Compile Architecture "simple" of Entity "nor2"
+# Compile Entity "and2"
+# Compile Architecture "simple" of Entity "and2"
+# Compile Entity "or2"
+# Compile Architecture "simple" of Entity "or2"
+# Compile Entity "or3"
+# Compile Architecture "simple" of Entity "or3"
+# Compile Entity "xor2"
+# Compile Architecture "simple" of Entity "xor2"
+# Compile Entity "xnor2"
+# Compile Architecture "simple" of Entity "xnor2"
+# Top-level unit(s) detected:
+# Entity => nor2
+# Entity => or2
+# Entity => xnor2
+# Entity => xor2
+# Entity => or3
+# Entity => not1
+# Entity => and2
+# Entity => nand2
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].

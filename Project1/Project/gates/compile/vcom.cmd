@@ -1,0 +1,1 @@
+-w -erf c:/My_Designs/Project1/Project/gates/compile/gates.erf -d c:/My_Designs/Project1/Project/gates/compile -s c:/My_Designs/Project1/library.cfg -j c:/My_Designs/Project1/Project/gates/projlib.cfg -work gates -reorder -O3 -e 100 -work gates -2002 c:/My_Designs/Project1/Project/gates/src/gates.vhd 
